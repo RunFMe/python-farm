@@ -1,0 +1,21 @@
+[
+  {
+    "type": "empty",
+    "duration": 10,
+    "cost": 0,
+    "sprites": [
+      "client/images/cabbage/cabbage2.png"
+    ]
+  },
+  {
+    "type": "cabbage",
+    "duration": 1,
+    "cost": 100,
+    "sprites": [
+      "client/images/cabbage/cabbage0.png",
+      "client/images/cabbage/cabbage1.png",
+      "client/images/cabbage/cabbage2.png",
+      "client/images/cabbage/cabbage3.png"
+    ]
+  }
+]
