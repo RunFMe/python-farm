@@ -23,19 +23,3 @@ if __name__ == '__main__':
 
     socketio.run(app, '127.0.0.1', 5000)
 
-    # with app.app_context():
-    #     # user = User(username='kke', money=199)
-    #     # db.session.add(user)
-    #     # db.session.commit()
-    #
-    #     u = User.query.all()[0]
-    #     print(u)
-    #     u.set_plant(0, 0, Plant(('cabbage', 100)))
-    #     db.session.commit()
-    #
-    #     u = User.query.all()[0]
-    #     print(u)
-    #
-    #     print(PlantManager._plants)
-    #
-    # # socketio.run(app)
